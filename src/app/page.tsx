@@ -133,7 +133,9 @@ export default function Home() {
           </div>
 
           <h2 className=" mt-10 font-semibold text-2xl ">Made for You</h2>
-          <div className='grid grid-cols-5 gap-4 mt-4'></div>
+          <div className='grid grid-cols-5 gap-4 mt-4'>
+            <div className='bg-white/5 p2 rounded'></div>
+          </div>
 
         </main>
       </div>
