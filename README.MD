@@ -2,4 +2,5 @@
 Baseado no projeto da Rocketseat
 ## Comandos para rodar o projeto
 npm i
+
 npm run dev
