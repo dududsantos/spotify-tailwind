@@ -1,5 +1,5 @@
-## CÓPIA DA INTERFACE DO SPOTIFY COM NEXT.JS + TAILWIND CSS
-# PROJETO DA ROCKETSEAT
-# COMANDOS PARA RODAR O PROJETO
+## Cópia da Interface do Spotify com uso de Next.js + TailwindCSS
+# Baseado no projeto da Rocketseat
+# Comandos para rodar o projeto
 npm i
 npm run dev
