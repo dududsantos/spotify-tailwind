@@ -32,7 +32,7 @@ export default function Home() {
                 alt=""
               />
               <strong>Goodbye & Good Riddance</strong>
-              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible">
+              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible relative left-24 ">
                 <Play />
               </button>
             </a>
@@ -42,17 +42,17 @@ export default function Home() {
                 src="https://images.genius.com/8b673f80818e4cc1b975e8d8cd81344c.1000x1000x1.png"
               />
               <strong>?</strong>
-              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible">
+              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible relative left-72">
                 <Play />
               </button>
             </a>
-            <a className="bg-white/10 rounded flex items-center gap-4 overflow-hidden hover:bg-white/20 cursor-pointer transition-colors group">
+            <a className="bg-white/10 rounded flex items-center gap-4 overflow-hidden hover:bg-white/20 cursor-pointer transition-colors group ">
               <img
                 className="w-24"
                 src="https://i1.sndcdn.com/artworks-QrueNkDLRCNylbNP-s04csQ-t500x500.jpg"
               />
               <strong>Contradições</strong>
-              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible">
+              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible relative left-48">
                 <Play />
               </button>
             </a>
@@ -62,7 +62,7 @@ export default function Home() {
                 src="https://upload.wikimedia.org/wikipedia/pt/8/88/Na_Ilha_da_Magia.jpg"
               />
               <strong>Ao vivo na Ilha da Magia</strong>
-              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible">
+              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible relative left-28">
                 <Play />
               </button>
             </a>
@@ -72,7 +72,7 @@ export default function Home() {
                 src="https://m.media-amazon.com/images/I/81nFF-rXdRL._AC_SL1500_.jpg"
               />
               <strong>Astroworld</strong>
-              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible">
+              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible relative left-52">
                 <Play />
               </button>
             </a>
@@ -83,7 +83,7 @@ export default function Home() {
                 alt=""
               />
               <strong>Meu Sonho - Parte 1</strong>
-              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible">
+              <button className=" w-12 h-12 flex items-center justify-center pl-1  rounded-full bg-green-400 text-black invisible group-hover:visible relative left-36">
                 <Play />
               </button>
             </a>
