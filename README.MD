@@ -1,4 +1,4 @@
-## Clone UI Spotify com uso de Next.js + TailwindCSS
+## Clone UI Spotify 
 - Baseado no projeto da Rocketseat
 - Feito com o framework Next.js juntamente com o tailwindCSS
 - Projeto desenvolvido para matéria de 'FrameworksJS para front-end'
